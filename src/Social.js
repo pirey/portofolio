@@ -17,6 +17,9 @@ const Social = () => {
             <LinkIcon href='https://github.com/pirey' icon='fa-github' />
           </div>
           <div className='col'>
+            <LinkIcon href='https://yeripratama.com' icon='fa-rss' />
+          </div>
+          <div className='col'>
             <LinkIcon href='https://www.linkedin.com/in/yeri-pratama/' icon='fa-linkedin-square' />
           </div>
           <div className='col'>
