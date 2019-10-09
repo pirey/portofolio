@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "683ed4713a989c53252b9bfb834b956f",
+    "revision": "8b80b9170abd50b18fe743c64b5210f8",
     "url": "/portofolio/index.html"
   },
   {
-    "revision": "4008e0b13e2076cbd9de",
-    "url": "/portofolio/static/css/main.e3cfb93a.chunk.css"
+    "revision": "9240f810d2a7d1a0ef3d",
+    "url": "/portofolio/static/css/main.8b79642e.chunk.css"
   },
   {
-    "revision": "ef071ebfe33d81bd856b",
-    "url": "/portofolio/static/js/2.774b114a.chunk.js"
+    "revision": "34c041d6d6059c50f694",
+    "url": "/portofolio/static/js/2.4d3102d3.chunk.js"
   },
   {
-    "revision": "4008e0b13e2076cbd9de",
-    "url": "/portofolio/static/js/main.bbf9e66f.chunk.js"
+    "revision": "9240f810d2a7d1a0ef3d",
+    "url": "/portofolio/static/js/main.c9d0856d.chunk.js"
   },
   {
     "revision": "8ebee44fab047a9cd28e",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portofolio/static/media/distributor.389d26ea.png"
   },
   {
-    "revision": "d14384ca1b38b04a46d9144e5db8d848",
-    "url": "/portofolio/static/media/inibakatku.d14384ca.png"
+    "revision": "a678d92587d529f04765a1b0ff387333",
+    "url": "/portofolio/static/media/frontpage.a678d925.png"
   },
   {
     "revision": "ac25c47790ff331f8fcfeec8866e6e0a",
@@ -58,6 +58,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "207dd36d938377f88cac58d48e12ffae",
     "url": "/portofolio/static/media/ongkirku.207dd36d.png"
+  },
+  {
+    "revision": "4125b9a10b45e235ff9245df60f2519c",
+    "url": "/portofolio/static/media/registration.4125b9a1.png"
+  },
+  {
+    "revision": "311577a493ab9a439a6a075bd16d103a",
+    "url": "/portofolio/static/media/test-instruction.311577a4.png"
+  },
+  {
+    "revision": "caae1633267b14e8fbba4b6c8f379029",
+    "url": "/portofolio/static/media/test-main.caae1633.png"
+  },
+  {
+    "revision": "82ba856c8067fe264e13455a1367a78d",
+    "url": "/portofolio/static/media/test.82ba856c.png"
   },
   {
     "revision": "10f97dd2a43096c4ff7cbde98e4f53cc",
