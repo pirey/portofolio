@@ -177,6 +177,10 @@ hr {
   height: 100%;
 }
 
+.porto .label {
+  margin-right: 5px;
+}
+
 .social .box {
   justify-content: space-around;
 }

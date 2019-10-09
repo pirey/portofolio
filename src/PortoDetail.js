@@ -21,6 +21,16 @@ const PortoDetail = props => {
             <p>{project.description}</p>
           </div>
         </div>
+        {project.tags ? (
+          <div className="row">
+            <div className="col-xs-10 col-xs-offset-1 col-sm-offset-3 col-sm-6">
+              {project.tags.map(tag => (
+                <span className="label label-default">{tag}</span>
+              ))}
+            </div>
+          </div>
+        ) : null}
+        <br />
         <br />
         <div className="row">
           {project.images.map((img, index) => {
@@ -43,7 +53,9 @@ const PortoDetail = props => {
                   <div className="thumbnail-overlay hidden-xs">
                     <p className="b">{img.alt ? img.alt : 'View Image'}</p>
                   </div>
-                  {img.alt ? <p className="title visible-xs">{img.alt}</p> : null}
+                  {img.alt ? (
+                    <p className="title visible-xs">{img.alt}</p>
+                  ) : null}
                 </div>
               </a>
             )

@@ -1,6 +1,7 @@
 const projects = [
   {
     title: 'Chatonomy',
+    tags: ['nodejs', 'socket.io', 'elasticsearch', 'mysql', 'angularjs'],
     description:
       'A chat platform that lets you provide livechat support for your customers.',
     images: [
@@ -13,6 +14,7 @@ const projects = [
   },
   {
     title: 'Dashing',
+    tags: ['ruby', 'dashing', 'coffeescript'],
     description: "Dashboard for monitoring company's statistics.",
     images: [
       {
@@ -24,6 +26,7 @@ const projects = [
   },
   {
     title: 'Distributor POS',
+    tags: ['codeigniter', 'php', 'mysql'],
     description:
       'A dashboard app for a distributor to manage their products and sales.',
     images: [
@@ -36,6 +39,7 @@ const projects = [
   },
   {
     title: 'Inibakatku',
+    tags: ['laravel', 'php', 'mysql', 'bootstrap'],
     description:
       'A decision-making software for high school students that helps them choose which majors to take.',
     images: [
@@ -68,6 +72,7 @@ const projects = [
   },
   {
     title: 'Jejualan FB',
+    tags: ['facebook app', 'php', 'mysql', 'api integration'],
     description:
       'A custom facebook app built specifically for jejualan e-commerce platform that lets the merchant to sell their products from jejualan in facebook page.',
     images: [
@@ -80,6 +85,7 @@ const projects = [
   },
   {
     title: 'Jejualan App',
+    tags: ['ionic', 'javascript', 'angularjs', 'api integration', 'android', 'ios'],
     description: 'Mobile app for jejualan platform.',
     images: [
       {
@@ -96,6 +102,7 @@ const projects = [
   },
   {
     title: 'Ongkirku App',
+    tags: ['ionic', 'javascript', 'angularjs', 'api integration', 'android', 'ios'],
     description: 'Mobile app for tracking shipping cost for various vendors.',
     images: [
       {
@@ -112,6 +119,7 @@ const projects = [
   },
   {
     title: 'WhatsHalal Token ICO',
+    tags: ['javascript', 'api integration', 'reactjs'],
     description:
       'Dashboard for user to buy and monitor their WhatsHalal Tokens ICO (Initial Coin Offering), a virtual cryptocurrency from WhatsHalal.',
     images: [
@@ -129,8 +137,9 @@ const projects = [
   },
   {
     title: 'Uruglasses',
+    tags: ['javascript', 'api integration', 'reactjs', 'instagram', 'firebase'],
     description:
-      'An online shop which fetch products right from instagram posts.',
+      'An online shop to sell products from instagram posts.',
     images: [
       {
         orientation: 'landscape',
