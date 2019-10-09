@@ -41,8 +41,9 @@ const PortoDetail = props => {
                     />
                   </div>
                   <div className="thumbnail-overlay hidden-xs">
-                    <p className="b">View Image</p>
+                    <p className="b">{img.alt ? img.alt : 'View Image'}</p>
                   </div>
+                  {img.alt ? <p className="title visible-xs">{img.alt}</p> : null}
                 </div>
               </a>
             )

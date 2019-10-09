@@ -1,16 +1,3 @@
-import dashing from './img/porto/dashing.png'
-import chatonomy from './img/porto/chatonomy.png'
-import distributor from './img/porto/distributor.png'
-import inibakatku from './img/porto/inibakatku.png'
-import jejualanFb from './img/porto/jejualan-fb.png'
-import jejualanMobile from './img/porto/jejualan-mobile.png'
-import jejualanMobile2 from './img/porto/jejualan-mobile-2.png'
-import ongkirku from './img/porto/ongkirku.png'
-import ongkirku2 from './img/porto/ongkirku-2.png'
-import uruglasses from './img/porto/uruglasses.png'
-import whIco from './img/porto/wh-ico.png'
-import whIcoDashboard from './img/porto/wh-ico-dashboard.png'
-
 const projects = [
   {
     title: 'Chatonomy',
@@ -19,7 +6,8 @@ const projects = [
     images: [
       {
         orientation: 'landscape',
-        src: chatonomy
+        alt: 'Chat Dashboard',
+        src: require('./img/projects/chatonomy/chatonomy.png')
       }
     ]
   },
@@ -29,7 +17,8 @@ const projects = [
     images: [
       {
         orientation: 'landscape',
-        src: dashing
+        alt: 'Statistic Dashboard',
+        src: require('./img/projects/dashing/dashing.png')
       }
     ]
   },
@@ -40,7 +29,8 @@ const projects = [
     images: [
       {
         orientation: 'landscape',
-        src: distributor
+        alt: 'Dashboard',
+        src: require('./img/projects/distributor/distributor.png')
       }
     ]
   },
@@ -51,8 +41,29 @@ const projects = [
     images: [
       {
         orientation: 'landscape',
-        src: inibakatku
-      }
+        alt: 'Front Page',
+        src: require('./img/projects/inibakatku/frontpage.png')
+      },
+      {
+        orientation: 'landscape',
+        alt: 'Registration',
+        src: require('./img/projects/inibakatku/registration.png')
+      },
+      {
+        orientation: 'landscape',
+        alt: 'Test Instruction',
+        src: require('./img/projects/inibakatku/test-instruction.png')
+      },
+      {
+        orientation: 'landscape',
+        alt: 'Test Main Page',
+        src: require('./img/projects/inibakatku/test-main.png')
+      },
+      {
+        orientation: 'landscape',
+        alt: 'Test Page',
+        src: require('./img/projects/inibakatku/test.png')
+      },
     ]
   },
   {
@@ -62,7 +73,8 @@ const projects = [
     images: [
       {
         orientation: 'landscape',
-        src: jejualanFb
+        alt: 'App within FB Page',
+        src: require('./img/projects/jejualan-fb/jejualan-fb.png')
       }
     ]
   },
@@ -72,11 +84,13 @@ const projects = [
     images: [
       {
         orientation: 'portrait',
-        src: jejualanMobile
+        alt: 'Main Page',
+        src: require('./img/projects/jejualan-mobile/jejualan-mobile.png')
       },
       {
         orientation: 'portrait',
-        src: jejualanMobile2
+        alt: 'Shopping Cart',
+        src: require('./img/projects/jejualan-mobile/jejualan-mobile-2.png')
       }
     ]
   },
@@ -86,11 +100,13 @@ const projects = [
     images: [
       {
         orientation: 'portrait',
-        src: ongkirku
+        alt: 'Track Shipping Cost',
+        src: require('./img/projects/ongkirku/ongkirku.png')
       },
       {
         orientation: 'portrait',
-        src: ongkirku2
+        alt: 'Shipping Cost List',
+        src: require('./img/projects/ongkirku/ongkirku-2.png')
       }
     ]
   },
@@ -101,11 +117,13 @@ const projects = [
     images: [
       {
         orientation: 'landscape',
-        src: whIco
+        alt: 'Signup Page',
+        src: require('./img/projects/wh-tsp/wh-ico.png')
       },
       {
         orientation: 'landscape',
-        src: whIcoDashboard
+        alt: 'Dashboard Page',
+        src: require('./img/projects/wh-tsp/wh-ico-dashboard.png')
       }
     ]
   },
@@ -116,7 +134,8 @@ const projects = [
     images: [
       {
         orientation: 'landscape',
-        src: uruglasses
+        alt: 'Main Page',
+        src: require('./img/projects/uruglasses/uruglasses.png')
       }
     ]
   }
