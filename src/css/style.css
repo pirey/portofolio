@@ -83,6 +83,7 @@ hr {
   padding: 100px 0;
 }
 
+.porto p,
 .about p {
   text-transform: initial;
 }
@@ -199,4 +200,18 @@ hr {
 .a-white:hover {
   color: white;
   text-decoration: none;
+}
+
+.btn.btn-outline {
+  padding: 15px 50px;
+  color: white;
+  background: transparent;
+  border: 1px solid white;
+  font-weight: bold;
+  border-radius: 4px;
+}
+
+.btn.btn-outline:hover {
+  color: #2c3e50;
+  background: white;
 }

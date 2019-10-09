@@ -1,19 +1,16 @@
 import React from 'react'
-import Avatar from './Avatar'
-import Porto from './Porto'
-import About from './About'
-import Social from './Social'
-import Footer from './Footer'
+import { HashRouter, Switch, Route } from 'react-router-dom'
+import Main from './Main'
+import PortoDetail from './PortoDetail'
 
 const App = () => {
   return (
-    <div>
-      <Avatar />
-      <Porto />
-      <About />
-      <Social />
-      <Footer />
-    </div>
+    <HashRouter>
+      <Switch>
+        <Route path="/porto/:index" exact component={PortoDetail} />
+        <Route path="/" exact component={Main} />
+      </Switch>
+    </HashRouter>
   )
 }
 
