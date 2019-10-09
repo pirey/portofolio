@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "48aa33998dc393e346e094c3ca5fbddf",
+    "revision": "683ed4713a989c53252b9bfb834b956f",
     "url": "/portofolio/index.html"
   },
   {
-    "revision": "a61b814238b1577d3e4a",
-    "url": "/portofolio/static/css/main.388eed37.chunk.css"
+    "revision": "4008e0b13e2076cbd9de",
+    "url": "/portofolio/static/css/main.e3cfb93a.chunk.css"
   },
   {
-    "revision": "917baa027c1993b63d96",
-    "url": "/portofolio/static/js/2.16989715.chunk.js"
+    "revision": "ef071ebfe33d81bd856b",
+    "url": "/portofolio/static/js/2.774b114a.chunk.js"
   },
   {
-    "revision": "a61b814238b1577d3e4a",
-    "url": "/portofolio/static/js/main.27c14ad3.chunk.js"
+    "revision": "4008e0b13e2076cbd9de",
+    "url": "/portofolio/static/js/main.bbf9e66f.chunk.js"
   },
   {
     "revision": "8ebee44fab047a9cd28e",
@@ -44,8 +44,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portofolio/static/media/jejualan-fb.ac25c477.png"
   },
   {
+    "revision": "84ff629fb39392b139cd997ac1d5b754",
+    "url": "/portofolio/static/media/jejualan-mobile-2.84ff629f.png"
+  },
+  {
     "revision": "5bb349223535ec2a267567ab0e8146da",
     "url": "/portofolio/static/media/jejualan-mobile.5bb34922.png"
+  },
+  {
+    "revision": "c36b3c348a986095d435ec4450e0c25f",
+    "url": "/portofolio/static/media/ongkirku-2.c36b3c34.png"
   },
   {
     "revision": "207dd36d938377f88cac58d48e12ffae",
@@ -54,5 +62,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "10f97dd2a43096c4ff7cbde98e4f53cc",
     "url": "/portofolio/static/media/uruglasses.10f97dd2.png"
+  },
+  {
+    "revision": "841f5bba286c5ae63fc6b9516758cf8b",
+    "url": "/portofolio/static/media/wh-ico-dashboard.841f5bba.png"
+  },
+  {
+    "revision": "c529ce22447493c4ae0350f500267f8b",
+    "url": "/portofolio/static/media/wh-ico.c529ce22.png"
   }
 ]);
