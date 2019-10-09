@@ -1,7 +1,14 @@
 const projects = [
   {
     title: 'Chatonomy',
-    tags: ['nodejs', 'socket.io', 'elasticsearch', 'mysql', 'angularjs'],
+    tags: [
+      'nodejs',
+      'express',
+      'socket.io',
+      'elasticsearch',
+      'mysql',
+      'angularjs'
+    ],
     description:
       'A chat platform that lets you provide livechat support for your customers.',
     images: [
@@ -39,7 +46,7 @@ const projects = [
   },
   {
     title: 'Inibakatku',
-    tags: ['laravel', 'php', 'mysql', 'bootstrap'],
+    tags: ['laravel', 'php', 'javascript', 'jquery', 'mysql', 'bootstrap'],
     description:
       'A decision-making software for high school students that helps them choose which majors to take.',
     images: [
@@ -67,7 +74,7 @@ const projects = [
         orientation: 'landscape',
         alt: 'Test Page',
         src: require('./img/projects/inibakatku/test.png')
-      },
+      }
     ]
   },
   {
@@ -85,7 +92,14 @@ const projects = [
   },
   {
     title: 'Jejualan App',
-    tags: ['ionic', 'javascript', 'angularjs', 'api integration', 'android', 'ios'],
+    tags: [
+      'ionic',
+      'javascript',
+      'angularjs',
+      'api integration',
+      'android',
+      'ios'
+    ],
     description: 'Mobile app for jejualan platform.',
     images: [
       {
@@ -102,7 +116,14 @@ const projects = [
   },
   {
     title: 'Ongkirku App',
-    tags: ['ionic', 'javascript', 'angularjs', 'api integration', 'android', 'ios'],
+    tags: [
+      'ionic',
+      'javascript',
+      'angularjs',
+      'api integration',
+      'android',
+      'ios'
+    ],
     description: 'Mobile app for tracking shipping cost for various vendors.',
     images: [
       {
@@ -138,8 +159,7 @@ const projects = [
   {
     title: 'Uruglasses',
     tags: ['javascript', 'api integration', 'reactjs', 'instagram', 'firebase'],
-    description:
-      'An online shop to sell products from instagram posts.',
+    description: 'An online shop to sell products from instagram posts.',
     images: [
       {
         orientation: 'landscape',
@@ -151,5 +171,3 @@ const projects = [
 ]
 
 export default projects
-
-
