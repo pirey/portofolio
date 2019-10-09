@@ -7,6 +7,7 @@ import jejualanFb from './img/porto/jejualan-fb.png'
 import jejualanMobile from './img/porto/jejualan-mobile.png'
 import ongkirku from './img/porto/ongkirku.png'
 import uruglasses from './img/porto/uruglasses.png'
+import whIco from './img/porto/wh-ico.png'
 
 const projects = [
   {
@@ -59,12 +60,19 @@ const projects = [
     }
   },
   {
+    title: 'WhatsHalal Token ICO',
+    img: {
+      orientation: 'landscape',
+      src: whIco
+    }
+  },
+  {
     title: 'Uruglasses',
     img: {
       orientation: 'landscape',
       src: uruglasses
     }
-  }
+  },
 ]
 
 const PortoItem = props => {
