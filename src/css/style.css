@@ -209,6 +209,10 @@ hr {
   text-decoration: none;
 }
 
+.a-bold {
+  font-weight: bold;
+}
+
 .btn.btn-outline {
   padding: 15px 50px;
   color: white;

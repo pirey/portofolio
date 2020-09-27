@@ -10,12 +10,23 @@ const projects = [
       'angularjs'
     ],
     description:
-      'A chat platform that lets you provide livechat support for your customers.',
+      'A chat platform that lets you provide livechat support for your customers. This project includes a pluggable chat widget for customers, and web dashboard for internal users.',
     images: [
       {
         orientation: 'landscape',
         alt: 'Chat Dashboard',
         src: require('./img/projects/chatonomy/chatonomy.png')
+      },
+      {
+        orientation: 'landscape',
+        alt: 'Chat Widget',
+        src: require('./img/projects/chatonomy/chat-widget.png')
+      }
+    ],
+    links: [
+      {
+        label: 'IDwebhost',
+        url: 'https://idwebhost.com'
       }
     ]
   },

@@ -6,10 +6,10 @@ const ProjectLinks = props => {
   const { links } = props
   return (
     <div className="text-center" style={{textTransform: 'none'}}>
-      Links: {links.map((link, i) => {
+      Links:{'  '} {links.map((link, i) => {
         return (
           <>
-            <a href={link.url} style={{display: 'inline-block', marginRight: '5px'}}>{link.label}</a>
+            <a href={link.url} className="a-white a-bold" style={{display: 'inline-block', marginRight: '5px'}}>{link.label}</a>
             {i < links.length - 1 ? ', ' : ''}
           </>
         )
