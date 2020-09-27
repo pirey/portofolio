@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b4d0a7fd01bb83b05c0588bb3c9d14c2",
+    "revision": "290d44dcfad99081d013f221cfa4360b",
     "url": "/portofolio/index.html"
   },
   {
-    "revision": "5be9032653076f6544cc",
+    "revision": "fd44574d15f7f3e6c206",
     "url": "/portofolio/static/css/main.bb60aad7.chunk.css"
   },
   {
-    "revision": "34c041d6d6059c50f694",
-    "url": "/portofolio/static/js/2.4d3102d3.chunk.js"
+    "revision": "542ae548fc099c24cc9e",
+    "url": "/portofolio/static/js/2.d54de3b4.chunk.js"
   },
   {
-    "revision": "5be9032653076f6544cc",
-    "url": "/portofolio/static/js/main.54c7d467.chunk.js"
+    "revision": "fd44574d15f7f3e6c206",
+    "url": "/portofolio/static/js/main.0fc4a3c8.chunk.js"
   },
   {
     "revision": "8ebee44fab047a9cd28e",
@@ -52,6 +52,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portofolio/static/media/jejualan-mobile.5bb34922.png"
   },
   {
+    "revision": "71992026ff08308122a20319e4d92b31",
+    "url": "/portofolio/static/media/olivia-bot.71992026.png"
+  },
+  {
     "revision": "c36b3c348a986095d435ec4450e0c25f",
     "url": "/portofolio/static/media/ongkirku-2.c36b3c34.png"
   },
@@ -78,6 +82,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "10f97dd2a43096c4ff7cbde98e4f53cc",
     "url": "/portofolio/static/media/uruglasses.10f97dd2.png"
+  },
+  {
+    "revision": "87ed47e1e4a04888f84636990164deea",
+    "url": "/portofolio/static/media/web-dashboard.87ed47e1.png"
   },
   {
     "revision": "841f5bba286c5ae63fc6b9516758cf8b",

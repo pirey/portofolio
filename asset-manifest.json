@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portofolio/static/css/main.bb60aad7.chunk.css",
-    "main.js": "/portofolio/static/js/main.54c7d467.chunk.js",
-    "main.js.map": "/portofolio/static/js/main.54c7d467.chunk.js.map",
+    "main.js": "/portofolio/static/js/main.0fc4a3c8.chunk.js",
+    "main.js.map": "/portofolio/static/js/main.0fc4a3c8.chunk.js.map",
     "runtime~main.js": "/portofolio/static/js/runtime~main.64b239cf.js",
     "runtime~main.js.map": "/portofolio/static/js/runtime~main.64b239cf.js.map",
-    "static/js/2.4d3102d3.chunk.js": "/portofolio/static/js/2.4d3102d3.chunk.js",
-    "static/js/2.4d3102d3.chunk.js.map": "/portofolio/static/js/2.4d3102d3.chunk.js.map",
+    "static/js/2.d54de3b4.chunk.js": "/portofolio/static/js/2.d54de3b4.chunk.js",
+    "static/js/2.d54de3b4.chunk.js.map": "/portofolio/static/js/2.d54de3b4.chunk.js.map",
     "index.html": "/portofolio/index.html",
-    "precache-manifest.ca54d19c8c49156e090ae25b0346277a.js": "/portofolio/precache-manifest.ca54d19c8c49156e090ae25b0346277a.js",
+    "precache-manifest.b06b0c9d741eafbf9f34d9caff1fb63b.js": "/portofolio/precache-manifest.b06b0c9d741eafbf9f34d9caff1fb63b.js",
     "service-worker.js": "/portofolio/service-worker.js",
     "static/css/main.bb60aad7.chunk.css.map": "/portofolio/static/css/main.bb60aad7.chunk.css.map",
     "static/media/anu.jpeg": "/portofolio/static/media/anu.e8cac0e9.jpeg",
@@ -19,6 +19,7 @@
     "static/media/jejualan-fb.png": "/portofolio/static/media/jejualan-fb.ac25c477.png",
     "static/media/jejualan-mobile-2.png": "/portofolio/static/media/jejualan-mobile-2.84ff629f.png",
     "static/media/jejualan-mobile.png": "/portofolio/static/media/jejualan-mobile.5bb34922.png",
+    "static/media/olivia-bot.png": "/portofolio/static/media/olivia-bot.71992026.png",
     "static/media/ongkirku-2.png": "/portofolio/static/media/ongkirku-2.c36b3c34.png",
     "static/media/ongkirku.png": "/portofolio/static/media/ongkirku.207dd36d.png",
     "static/media/registration.png": "/portofolio/static/media/registration.4125b9a1.png",
@@ -26,6 +27,7 @@
     "static/media/test-main.png": "/portofolio/static/media/test-main.caae1633.png",
     "static/media/test.png": "/portofolio/static/media/test.82ba856c.png",
     "static/media/uruglasses.png": "/portofolio/static/media/uruglasses.10f97dd2.png",
+    "static/media/web-dashboard.png": "/portofolio/static/media/web-dashboard.87ed47e1.png",
     "static/media/wh-ico-dashboard.png": "/portofolio/static/media/wh-ico-dashboard.841f5bba.png",
     "static/media/wh-ico.png": "/portofolio/static/media/wh-ico.c529ce22.png"
   }
