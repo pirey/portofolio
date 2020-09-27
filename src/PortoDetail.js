@@ -2,6 +2,22 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import projects from './projects'
 
+const ProjectLinks = props => {
+  const { links } = props
+  return (
+    <div className="text-center" style={{textTransform: 'none'}}>
+      Links: {links.map((link, i) => {
+        return (
+          <>
+            <a href={link.url} style={{display: 'inline-block', marginRight: '5px'}}>{link.label}</a>
+            {i < links.length - 1 ? ', ' : ''}
+          </>
+        )
+      })}
+    </div>
+  )
+}
+
 const PortoDetail = props => {
   const { history } = props
   const { index } = props.match.params
@@ -29,6 +45,9 @@ const PortoDetail = props => {
               ))}
             </div>
           </div>
+        ) : null}
+        {project.links ? (
+          <ProjectLinks links={project.links} />
         ) : null}
         <br />
         <br />

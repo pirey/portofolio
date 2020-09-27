@@ -167,6 +167,33 @@ const projects = [
         src: require('./img/projects/uruglasses/uruglasses.png')
       }
     ]
+  },
+  {
+    title: 'Olivia Telegram Bot',
+    tags: ['python', 'telegram bot', 'reactjs', 'postgresql'],
+    description: 'A telegram bot for job board management, with web dashboard.',
+    links: [
+      {
+        label: 'Bot',
+        url: 'https://web.telegram.org/#/im?p=@JobSGBot'
+      },
+      {
+        label: 'Channel',
+        url: 'https://web.telegram.org/#/im?p=@SingaporeJobsParttimeSG'
+      },
+    ],
+    images: [
+      {
+        orientation: 'landscape',
+        alt: 'Olivia Bot',
+        src: require('./img/projects/olivia/olivia-bot.png')
+      },
+      {
+        orientation: 'landscape',
+        alt: 'Web Dashboard',
+        src: require('./img/projects/olivia/web-dashboard.png')
+      }
+    ]
   }
 ]
 
