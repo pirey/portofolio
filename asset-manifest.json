@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portofolio/static/css/main.153c7098.chunk.css",
-    "main.js": "/portofolio/static/js/main.91b3c87c.chunk.js",
-    "main.js.map": "/portofolio/static/js/main.91b3c87c.chunk.js.map",
+    "main.css": "/portofolio/static/css/main.fca7ce08.chunk.css",
+    "main.js": "/portofolio/static/js/main.6fa650de.chunk.js",
+    "main.js.map": "/portofolio/static/js/main.6fa650de.chunk.js.map",
     "runtime~main.js": "/portofolio/static/js/runtime~main.64b239cf.js",
     "runtime~main.js.map": "/portofolio/static/js/runtime~main.64b239cf.js.map",
-    "static/js/2.c74fda99.chunk.js": "/portofolio/static/js/2.c74fda99.chunk.js",
-    "static/js/2.c74fda99.chunk.js.map": "/portofolio/static/js/2.c74fda99.chunk.js.map",
+    "static/js/2.4f6deaf5.chunk.js": "/portofolio/static/js/2.4f6deaf5.chunk.js",
+    "static/js/2.4f6deaf5.chunk.js.map": "/portofolio/static/js/2.4f6deaf5.chunk.js.map",
     "index.html": "/portofolio/index.html",
-    "precache-manifest.975be33344077dd26663b65aa17ce851.js": "/portofolio/precache-manifest.975be33344077dd26663b65aa17ce851.js",
+    "precache-manifest.7acd400dde01edaa8e5f38b2d08834ac.js": "/portofolio/precache-manifest.7acd400dde01edaa8e5f38b2d08834ac.js",
     "service-worker.js": "/portofolio/service-worker.js",
-    "static/css/main.153c7098.chunk.css.map": "/portofolio/static/css/main.153c7098.chunk.css.map",
+    "static/css/main.fca7ce08.chunk.css.map": "/portofolio/static/css/main.fca7ce08.chunk.css.map",
     "static/media/anu.jpeg": "/portofolio/static/media/anu.e8cac0e9.jpeg",
     "static/media/chat-widget.png": "/portofolio/static/media/chat-widget.b0c90ac4.png",
     "static/media/chatonomy.png": "/portofolio/static/media/chatonomy.40543eb9.png",
@@ -30,6 +30,7 @@
     "static/media/uruglasses.png": "/portofolio/static/media/uruglasses.10f97dd2.png",
     "static/media/web-dashboard.png": "/portofolio/static/media/web-dashboard.87ed47e1.png",
     "static/media/wh-ico-dashboard.png": "/portofolio/static/media/wh-ico-dashboard.841f5bba.png",
-    "static/media/wh-ico.png": "/portofolio/static/media/wh-ico.c529ce22.png"
+    "static/media/wh-ico.png": "/portofolio/static/media/wh-ico.c529ce22.png",
+    "static/media/whatshalal-consumer-web.jpg": "/portofolio/static/media/whatshalal-consumer-web.d3b6f11f.jpg"
   }
 }

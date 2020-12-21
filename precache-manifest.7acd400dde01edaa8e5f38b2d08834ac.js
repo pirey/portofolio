@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d079b35d23139323527610678f2b1db6",
+    "revision": "29fd1e01480cf82aa8ac2df1edaec354",
     "url": "/portofolio/index.html"
   },
   {
-    "revision": "cbcd9e8b6dc2d086a2dc",
-    "url": "/portofolio/static/css/main.153c7098.chunk.css"
+    "revision": "269a2a975f83a57e0ec0",
+    "url": "/portofolio/static/css/main.fca7ce08.chunk.css"
   },
   {
-    "revision": "9d44bb3b19f4e0e1d171",
-    "url": "/portofolio/static/js/2.c74fda99.chunk.js"
+    "revision": "8cd907c3dec04d159a93",
+    "url": "/portofolio/static/js/2.4f6deaf5.chunk.js"
   },
   {
-    "revision": "cbcd9e8b6dc2d086a2dc",
-    "url": "/portofolio/static/js/main.91b3c87c.chunk.js"
+    "revision": "269a2a975f83a57e0ec0",
+    "url": "/portofolio/static/js/main.6fa650de.chunk.js"
   },
   {
     "revision": "8ebee44fab047a9cd28e",
@@ -98,5 +98,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c529ce22447493c4ae0350f500267f8b",
     "url": "/portofolio/static/media/wh-ico.c529ce22.png"
+  },
+  {
+    "revision": "d3b6f11f4cf0504f8419e50f29310ea4",
+    "url": "/portofolio/static/media/whatshalal-consumer-web.d3b6f11f.jpg"
   }
 ]);
