@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import projects from './projects'
 
-const PortoListItem = props => {
+const PortofolioListItem = props => {
   const { item } = props
   const { images, title } = item
   const { src, orientation } = images[0]
@@ -19,9 +19,9 @@ const PortoListItem = props => {
   )
 }
 
-const PortoList = () => {
+const PortofolioList = () => {
   return (
-    <section className="porto text-center">
+    <section className="portofolio text-center">
       <div className="container">
         <h2 className="b">Some of my works</h2>
         <hr />
@@ -32,9 +32,9 @@ const PortoList = () => {
               <Link
                 key={`${item.title}-${index}`}
                 className="col-xs-12 col-sm-4 col-md-3"
-                to={`/porto/${index}`}
+                to={`/portofolio/${encodeURI(item.title)}`}
               >
-                <PortoListItem item={item} />
+                <PortofolioListItem item={item} />
               </Link>
             )
           })}
@@ -44,4 +44,4 @@ const PortoList = () => {
   )
 }
 
-export default PortoList
+export default PortofolioList

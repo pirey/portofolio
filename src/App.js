@@ -1,13 +1,13 @@
 import React from 'react'
 import { HashRouter, Switch, Route } from 'react-router-dom'
 import Main from './Main'
-import PortoDetail from './PortoDetail'
+import PortofolioDetail from './PortofolioDetail'
 
 const App = () => {
   return (
     <HashRouter>
       <Switch>
-        <Route path="/porto/:index" exact component={PortoDetail} />
+        <Route path="/portofolio/:title" exact component={PortofolioDetail} />
         <Route path="/" exact component={Main} />
       </Switch>
     </HashRouter>

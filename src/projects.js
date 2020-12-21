@@ -168,6 +168,19 @@ const projects = [
     ]
   },
   {
+    title: 'WhatsHalal Food Delivery Service',
+    tags: ['javascript', 'api integration', 'reactjs'],
+    description:
+      'Front page for WhatsHalal food delivery service.',
+    images: [
+      {
+        orientation: 'portrait',
+        alt: 'Home Page',
+        src: require('./img/projects/wh-consumer-web/whatshalal-consumer-web.jpg')
+      }
+    ]
+  },
+  {
     title: 'Uruglasses',
     tags: ['javascript', 'api integration', 'reactjs', 'instagram', 'firebase'],
     description: 'An online shop to sell products from instagram posts.',
